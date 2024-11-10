@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\aasmu\\Documents\\Unreal Projects\\BrokenPaths\\Intermediate\\Source\\BrokenPaths.Build.cs",
+		"C:\\Users\\aasmu\\Documents\\Unreal Projects\\BrokenPaths\\Intermediate\\Source\\BrokenPaths.Target.cs",
+		"C:\\Users\\aasmu\\Documents\\Unreal Projects\\BrokenPaths\\Intermediate\\Source\\BrokenPathsClient.Target.cs",
+		"C:\\Users\\aasmu\\Documents\\Unreal Projects\\BrokenPaths\\Intermediate\\Source\\BrokenPathsEditor.Target.cs",
+		"C:\\Users\\aasmu\\Documents\\Unreal Projects\\BrokenPaths\\Intermediate\\Source\\BrokenPathsServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

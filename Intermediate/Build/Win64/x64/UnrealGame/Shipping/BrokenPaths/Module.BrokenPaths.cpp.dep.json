@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aasmu\\documents\\unreal projects\\brokenpaths\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\brokenpaths\\module.brokenpaths.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aasmu\\documents\\unreal projects\\brokenpaths\\intermediate\\build\\win64\\x64\\brokenpaths\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\aasmu\\documents\\unreal projects\\brokenpaths\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\brokenpaths\\definitions.brokenpaths.h",
+            "c:\\users\\aasmu\\documents\\unreal projects\\brokenpaths\\intermediate\\source\\brokenpaths.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
